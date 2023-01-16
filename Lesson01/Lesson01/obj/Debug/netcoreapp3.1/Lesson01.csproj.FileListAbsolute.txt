@@ -1,0 +1,14 @@
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01.deps.json
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01.runtimeconfig.json
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01.runtimeconfig.dev.json
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01.dll
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/bin/Debug/netcoreapp3.1/Lesson01.pdb
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.csproj.AssemblyReference.cache
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.AssemblyInfoInputs.cache
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.AssemblyInfo.cs
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.csproj.CoreCompileInputs.cache
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.dll
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.pdb
+/Users/dmitrii/MyRepo/CSharpArchitectureAndDesignPatterns/Lesson01/Lesson01/obj/Debug/netcoreapp3.1/Lesson01.genruntimeconfig.cache
